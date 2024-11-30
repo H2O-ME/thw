@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // 播放音乐
     function playMusic() {
         currentSong = getRandomSong();
-        audio.src = `/music/${currentSong}.mp3`;
+        audio.src = `https://h2o-me.github.io/thw/music/${currentSong}.mp3`;
         audio.play().catch(error => {
             console.log('自动播放失败:', error);
         });
