@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 主页 -->
+    <url>
+        <loc>https://h2o-me.github.io/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- 项目链接 -->
+    <url>
+        <loc>https://xn--6-ti2c86fw58d.rth1.xyz/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://h2o-me.github.io/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://xn--yzyz67f.rth1.xyz/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- 社交媒体链接 -->
+    <url>
+        <loc>https://github.com/H2O-ME</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.bandbbs.cn/members/368236/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://h2o-me.github.io/ai/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://h2o-me.github.io/player/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://h2o-me.github.io/lizi/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://h2o-me.github.io/w11/</loc>
+        <lastmod>2024-03-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset> 
